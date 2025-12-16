@@ -1,4 +1,4 @@
-# The-Zero-Protocol
+# PROJECT NAME: The-Zero-Protocol
 
 # Project Overview
 Game Description: The Zero Protocol
