@@ -126,21 +126,19 @@ How it applies:
 
 Hiding Complexity: The WireModule.php file contains logic about "cutting" specific colors and checking solutions.
 
+The Interface: The main game doesn't need to know about wire colors. It only uses the "abstract" concept of "Solving." The detailed code for how it is solved is hidden away inside this specific file, keeping the main game logic clean.
+
 # Source Code
 https://drive.google.com/drive/folders/1u27Byjk-q1Ngv9fDwBnGsJTR3u55gAQI?usp=sharing
 
 # Video Demonstration
-Alviz, Arcel: 
+- Alviz, Arcel: 
+- Arenas, Juaquin Alejandro:
+- Bagnas, Ardy:
+- Bulan, Christian Jacob:
+- Dela Cruz, Kenji:
 
-Arenas, Juaquin Alejandro:
 
-Bagnas, Ardy:
-
-Bulan, Christian Jacob:
-
-Dela Cruz, Kenji:
-
-The Interface: The main game doesn't need to know about wire colors. It only uses the "abstract" concept of "Solving." The detailed code for how it is solved is hidden away inside this specific file, keeping the main game logic clean.
 
    
 
