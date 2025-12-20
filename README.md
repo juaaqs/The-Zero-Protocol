@@ -131,12 +131,15 @@ The Interface: The main game doesn't need to know about wire colors. It only use
 # Source Code
 https://drive.google.com/drive/folders/1u27Byjk-q1Ngv9fDwBnGsJTR3u55gAQI?usp=sharing
 
-# Video Demonstration
-- Alviz, Arcel: 
-- Arenas, Juaquin Alejandro:
-- Bagnas, Ardy:
-- Bulan, Christian Jacob:
-- Dela Cruz, Kenji:
+# Video Demonstration (Don't use domain account)
+- **Alviz, Arcel:** 
+- **Arenas, Juaquin Alejandro:** https://drive.google.com/drive/folders/1t7EeUX-SUmgmbtqJWmkrYZB04tRk4pCk?usp=sharing
+- **Bagnas, Ardy:** 
+- **Bulan, Christian Jacob:** https://drive.google.com/file/d/12bb0SwpjOA1h-dxtgqpB8V6UAtwbGO5N/view?usp=sharing
+- **Dela Cruz, Kenji:** https://drive.google.com/file/d/1BSLBYp7CWLMocxSmhRWQWLkYJa2siRKS/view?usp=sharing
+
+# Published to online
+game link: https://thezeroprotocol.iceiy.com
 
 
 
